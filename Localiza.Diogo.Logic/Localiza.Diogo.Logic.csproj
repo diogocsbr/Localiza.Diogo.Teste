@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Localiza.Diogo.Modelo\Localiza.Diogo.Modelo.csproj" />
+    <ProjectReference Include="..\Localiza.Diogo.Services\Localiza.Diogo.Services.csproj" />
+  </ItemGroup>
+
+</Project>
